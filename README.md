@@ -8,7 +8,7 @@ Trabajo actualmente en una empresa de **Banca Digital**, participando como focal
 ## 🧠 Sobre mí
 
 - 🎓 Analista Programador Universitario (UNLu)
-- 💼 Más de 10 años de experiencia en IT  
+- 💼 Más de 4 años trabajando como DevOps y mas de 10 de experiencia en IT  
 - 🔧 Experiencia previa como SysAdmin y Soporte Técnico
 - 🚀 Enfoque actual: **DevOps / SRE / Cloud / Kubernetes**
 - 🏦 Experiencia en entornos **críticos y regulados (fintech/banca)**
@@ -26,8 +26,7 @@ Trabajo actualmente en una empresa de **Banca Digital**, participando como focal
 ### 🔄 CI/CD
 - GitLab CI
 - Jenkins
-- Pipelines declarativos
-- Testcontainers
+- GitHub Actions
 
 ### 📊 Observabilidad
 - Prometheus
